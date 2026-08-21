@@ -85,7 +85,7 @@ is_production = (
 
 
 app = FastAPI(
-    title="Bar do Celso - Sistema de Gestão",
+    title="PDV",
     version="1.0.0",
 
     docs_url=(
