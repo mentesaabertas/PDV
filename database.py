@@ -16,8 +16,8 @@ from sqlalchemy.orm import (
 # ==========================
 DATABASE_URL = (
     "postgresql+asyncpg://"
-    "neondb_owner:npg_aGyLhNVD5Ie7@"
-    "ep-gentle-bird-aylptvjm-pooler.c-5.us-east-2.aws.neon.tech/"
+    "neondb_owner:npg_jZVR6fqJOlC9@"
+    "ep-soft-bar-axf3yx9h-pooler.c-4.us-east-2.aws.neon.tech/"
     "neondb"
 )
 
