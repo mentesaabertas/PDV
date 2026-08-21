@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.onrender.mentes_abertas.twa",
-        "sha256_cert_fingerprints": ["3A:20:67:07:03:74:93:08:2D:3F:ED:FF:0E:CD:18:3F:BA:99:E6:80:19:44:6B:86:B2:D8:43:F5:A7:12:E5:84"]
+        "sha256_cert_fingerprints": ["6C:1F:CA:F6:EB:56:49:3F:EC:96:A6:A2:39:37:24:39:80:14:F9:9A:19:6E:E4:8B:DD:43:19:23:E0:1C:0F:9E"]
       }
     }]
